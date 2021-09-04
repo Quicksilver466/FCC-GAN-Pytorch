@@ -1,4 +1,4 @@
-# FCCGAN - Pytorch
+# FCC-GAN - Pytorch
 <p>This is a very basic unofficial implementation of FCC-GAN in pytorch, only on the MNIST dataset.
 The Generator and Discriminator models are classes in generator_fcc.py and discriminator_fcc.py. Other than that the pretrained models itself and the state_dict are
 stored in Saved_Models folder.</p>
